@@ -3,11 +3,9 @@
 ![Screenshot (3372)](https://github.com/Inderpanda/SQL_Project_1--Consumer_Goods_Ad-Hoc_requests/assets/138003751/9e6485b9-884f-4f43-be4d-be3721826428)
 
 ---------------------------------------------------
-𝐏𝐨𝐰𝐞𝐫 𝐏𝐨𝐢𝐧𝐭 𝐒𝐥𝐢𝐝𝐞𝐬 𝐥𝐢𝐧𝐤 - https://shorturl.at/iGN35
+1️⃣ 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 ----------------------------------------------------
 
-
-1️⃣ 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 
 Project: Provide Insights to Management 
 
